@@ -1,0 +1,8 @@
+[
+ {"question":"How are DOM elements selected and modified?","answer":"DOM elements can be selected using getElementById() and querySelector(), then modified using style, textContent and classList."},
+ {"question":"Are event listeners attached correctly?","answer":"Yes. addEventListener() can respond to actions such as button clicks and form submissions."},
+ {"question":"Is localStorage used for remembering the theme?","answer":"Yes. StudentHub stores the selected theme in localStorage so it can be restored when the page is opened again."},
+ {"question":"How is JSON data fetched?","answer":"External JSON files are retrieved with the Fetch API and converted to JavaScript objects with response.json()."},
+ {"question":"Which array methods support filtering and pagination?","answer":"filter(), sort() and slice() can be combined to implement search, sorting and pagination."},
+ {"question":"How is accessibility supported?","answer":"Labels, keyboard-friendly buttons and ARIA attributes can make interactive controls easier to understand."}
+]
