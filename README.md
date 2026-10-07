@@ -10,5 +10,6 @@ Email: student@demo.com
 Password: student123
 
 ## Notes
-This is a front-end academic demo. Data is stored locally with localStorage; there is no real backend/database.
+This is a front-end academic demo. Data is stored locally with localStorage; there is no real backend/database.<br>
+
 Open the folder StudentHub that contains updates files.
